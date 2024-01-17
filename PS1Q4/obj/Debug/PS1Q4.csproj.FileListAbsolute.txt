@@ -1,0 +1,8 @@
+D:\Bhagyashree\ICT\sem2\ProblemSheet1\PS1Q4\bin\Debug\PS1Q4.exe.config
+D:\Bhagyashree\ICT\sem2\ProblemSheet1\PS1Q4\bin\Debug\PS1Q4.exe
+D:\Bhagyashree\ICT\sem2\ProblemSheet1\PS1Q4\bin\Debug\PS1Q4.pdb
+D:\Bhagyashree\ICT\sem2\ProblemSheet1\PS1Q4\obj\Debug\PS1Q4.csproj.AssemblyReference.cache
+D:\Bhagyashree\ICT\sem2\ProblemSheet1\PS1Q4\obj\Debug\PS1Q4.csproj.SuggestedBindingRedirects.cache
+D:\Bhagyashree\ICT\sem2\ProblemSheet1\PS1Q4\obj\Debug\PS1Q4.csproj.CoreCompileInputs.cache
+D:\Bhagyashree\ICT\sem2\ProblemSheet1\PS1Q4\obj\Debug\PS1Q4.exe
+D:\Bhagyashree\ICT\sem2\ProblemSheet1\PS1Q4\obj\Debug\PS1Q4.pdb
