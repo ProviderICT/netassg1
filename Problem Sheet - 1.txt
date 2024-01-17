@@ -1,0 +1,5 @@
+Problem Sheet - 1
+1) Create a C# application and demostrate multi-level inheritance.
+2) Demonstrate usage of String Indexer.
+3) Create an Abstract base class and inherit it in minmum 2 derived classes. Create a collection of base class and store minimum 4 stances of each derived class in single collection. Display all data to user by traversing that single collection.
+4) Demonstrate usage of Interface using C#.
